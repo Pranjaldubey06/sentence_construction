@@ -1,0 +1,18 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "sentence": "The ___ jumped over the ___.",
+        "options": ["dog", "moon", "cat", "sun"],
+        "correct": ["dog", "moon"]
+      },
+      {
+        "id": 2,
+        "sentence": "She ___ to the store and ___ milk.",
+        "options": ["went", "bought", "ran", "drank"],
+        "correct": ["went", "bought"]
+      }
+      
+    ]
+  }
+  
